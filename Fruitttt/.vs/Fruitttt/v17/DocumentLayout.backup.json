@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Fruittt\\Fruitttt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\SlicerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SlicerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\DespawnerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DespawnerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\FruitSpawnerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FruitSpawnerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\FruitScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FruitScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FruitScript.cs",
+              "DocumentMoniker": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\FruitScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FruitScript.cs",
+              "ToolTip": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\FruitScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FruitScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:43:19.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DespawnerScript.cs",
+              "DocumentMoniker": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\DespawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DespawnerScript.cs",
+              "ToolTip": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\DespawnerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DespawnerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:24:59.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlicerScript.cs",
+              "DocumentMoniker": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\SlicerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SlicerScript.cs",
+              "ToolTip": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\SlicerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SlicerScript.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:49:13.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FruitSpawnerScript.cs",
+              "DocumentMoniker": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\FruitSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FruitSpawnerScript.cs",
+              "ToolTip": "D:\\Unity\\Fruittt\\Fruitttt\\Assets\\Scripts\\FruitSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FruitSpawnerScript.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:08:21.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
